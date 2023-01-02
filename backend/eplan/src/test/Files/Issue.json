@@ -1,0 +1,10 @@
+{
+  "id":"5662c1d0-e94f-43e3-ac38-e6a24992328c",
+  "projectId":"3840724a-3e82-4cf1-9f91-8b53d6e8f6ad",
+  "title":"Task1",
+  "subtitle":"SubTopic1",
+  "description":"bug identified",
+  "status":"RUN",
+  "tags": ["DESIGN","CODE","REVIEW","REVISE"],
+  "assignee": "638969e1fc32b5670738e535"
+}
